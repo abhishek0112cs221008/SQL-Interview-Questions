@@ -24,3 +24,7 @@
 13. Views in SQL — `20:09`
 14. How Can You Convert Text into Date Format? — `21:22`
 15. What are Triggers in SQL — `21:53`
+
+---
+
+<img width="703" height="640" alt="image" src="https://github.com/user-attachments/assets/f60b2148-ea98-4217-9237-bbec7d927277" />
